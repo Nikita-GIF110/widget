@@ -8,7 +8,7 @@ createRoot(document.getElementById("root")!).render(
     <Map
       imageSrc="https://i.playground.ru/p/vyMHGjaxCXlvbts90HYCpQ.jpeg"
       // imageSrc="https://cdn.shopify.com/s/files/1/0082/4147/9737/products/CMYK_City_60x60_signed_4472x.jpg?v=1528014387"
-      size="medium"
+      size="small"
     />
   </StrictMode>
 );
